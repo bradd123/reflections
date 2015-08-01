@@ -1,0 +1,4 @@
+When you would want to create a new repository rather than keeping all your work local?
+1. When using another machine.
+2. When another member of the project pushes the code.
+3. When updates in github site.
